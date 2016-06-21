@@ -9,6 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="login.css">
 </head>
 <body>
+
 	<div class="outer-container">
 		
 		<div class="index-header">	
@@ -38,6 +39,7 @@
 		<div class="backround-style index-footer"> 
 				<p> Created by Yamada <p>
 		</div>
+		
 	</div>	
 
 </body>
